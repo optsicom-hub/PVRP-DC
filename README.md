@@ -15,4 +15,4 @@ Universitat de València.
 - **Quartile:**  
 
 ## Instances
-Instances are publicly available at \url{https://doi.org/10.17632/p4n2xw84bv.1}.
+Instances are publicly available at https://doi.org/10.17632/p4n2xw84bv.1.
