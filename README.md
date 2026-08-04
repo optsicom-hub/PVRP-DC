@@ -1,6 +1,6 @@
 # Variable Neighborhood Search with Path Relinking for the Periodic Vehicle Routing Problem with Driver Consistency
 
-**Rafael Martí, Anna Martínez-Gavara, Marc Benito Marimón, Manuel Laguna**
+**Marc Benito Marimón, Rafael Martí, Anna Martínez-Gavara, Manuel Laguna**
 
 Universitat de València.
 
