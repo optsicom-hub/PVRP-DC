@@ -17,11 +17,20 @@ The Periodic Vehicle Routing Problem (PVRP) and its variants, extend the well-kn
 ## Instances
 Instances are publicly available at https://doi.org/10.17632/p4n2xw84bv.1.
 
+## Citation
+
+If you use these instances or this repository, please cite:
+
+> M. Benito-Marimon, R. Martí, A. Martínez-Gavara, and M. Laguna,  
+> “Variable Neighborhood Search with Path Relinking for the Periodic Vehicle Routing Problem with Driver Consistency,”  
+> *Expert Systems with Applications*, Article 133733, 2026.
+
+```bibtex
 @article{benito2026variable,
-  title={Variable Neighborhood Search with Path Relinking for the Periodic Vehicle Routing Problem with Driver Consistency},
-  author={Benito-Marimon, Marc and Mart{\'\i}, Rafael and Mart{\'\i}nez-Gavara, Anna and Laguna, Manuel},
-  journal={Expert Systems with Applications},
-  pages={133733},
-  year={2026},
-  publisher={Elsevier}
+  title   = {Variable Neighborhood Search with Path Relinking for the Periodic Vehicle Routing Problem with Driver Consistency},
+  author  = {Benito-Marimon, Marc and Mart{\'i}, Rafael and Mart{\'i}nez-Gavara, Anna and Laguna, Manuel},
+  journal = {Expert Systems with Applications},
+  pages   = {133733},
+  year    = {2026},
+  publisher = {Elsevier}
 }
