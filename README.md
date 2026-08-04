@@ -19,6 +19,14 @@ Instances are publicly available at https://doi.org/10.17632/p4n2xw84bv.1.
 
 ## Citation
 
+## Instances
+
+The benchmark instances used in this study are publicly available on Mendeley Data:
+
+**Dataset:** [Periodic Vehicle Routing Problem with Driver Consistency — Instances](https://doi.org/10.17632/p4n2xw84bv.1)
+
+## Citation
+
 If you use these instances or this repository, please cite:
 
 > M. Benito-Marimon, R. Martí, A. Martínez-Gavara, and M. Laguna,  
@@ -34,3 +42,5 @@ If you use these instances or this repository, please cite:
   year    = {2026},
   publisher = {Elsevier}
 }
+```
+
