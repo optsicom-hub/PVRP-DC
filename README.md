@@ -9,7 +9,7 @@ The Periodic Vehicle Routing Problem (PVRP) and its variants, extend the well-kn
 
 ## Publication Details
 
-- **Paper Link:** \url{http://www.doi.org/10.1016/j.eswa.2026.133733} |
+- **Paper Link:** http://www.doi.org/10.1016/j.eswa.2026.133733 |
 - **Journal:**  Expert System with Applications
 - **Impact Factor:**  to include 
 - **Quartile:**  Q1
